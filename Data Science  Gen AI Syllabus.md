@@ -144,9 +144,8 @@
 - Managing Object Dependencies
 
 
-#### Module 2 : Python Programming 
 
-# Python Important Topics
+# Module 2 : Python Programming 
 
 ## 1. Variables and Data Types
 - Definition of variables
