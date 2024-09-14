@@ -1,5 +1,7 @@
 
-# Syllabus for DBMS and PL/SQL Programming
+# COURSE NAME : FULL STACK DATA SCIENCE , MACHINE LERNING , ARTIFICIAL INTELLIGENCE, GEN AI
+
+## MODULE 1 : DATA BASE MANAGEMENT SYSTEM
 
 ## 1. Introduction to DBMS
 - Definition and Overview of DBMS
