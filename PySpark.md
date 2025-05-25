@@ -6,7 +6,9 @@
 3. PySpark Architecture (RDD, DataFrame, Dataset APIs)
 4. PySpark and Hadoop Integration
 5. Introduction to SparkContext and SparkSession
-
+3. PySpark Architecture (RDD, DataFrame, Dataset APIs)
+4. PySpark and Hadoop Integration
+5. Introduction to SparkContext and SparkSession
 ---
 
 ## **PySpark Core Concepts**
